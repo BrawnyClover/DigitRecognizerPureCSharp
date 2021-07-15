@@ -1,2 +1,2 @@
 # DigitRecognizer
-MNIST algorithm developed with and only pure c#
+MNIST algorithm developed by only using pure c#
